@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-	<title>Gerador de Gifs</title>
+	**Gerador de Gifs
 	<meta name="description" content="Crie seu gif online, sem precisar instalar nenhum programa">
 		
 </head>
