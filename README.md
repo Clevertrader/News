@@ -1,2 +1,2 @@
-#http://NewFaceFriends.com
+#https://NewFaceFriends.com
 BETA
