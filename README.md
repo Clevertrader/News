@@ -1,2 +1,2 @@
-# news-face
+#http://NewFaceFriends.com
 BETA
